@@ -1,0 +1,14 @@
+{
+  "figures_expected_examples": [
+    "Figure15_shap_global.png",
+    "Figure16_shap_top10_components.pdf",
+    "Figure19_shap_local_COMPONENTID.png",
+    "Figure21_dependency_graph.pdf",
+    "Figure23_training_curve.png"
+  ],
+  "tables_expected_examples": [
+    "table_model_metrics_hrc.csv",
+    "table_patch_priority.csv",
+    "table_explainability_summary.csv"
+  ]
+}
